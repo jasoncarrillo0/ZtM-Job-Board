@@ -110,5 +110,21 @@
         "state": "",
         "country": "Romania"
       }
+    },
+    {
+        "id": 1007,
+        "name": "Jason Carrillo",
+        "img": "https://avatars1.githubusercontent.com/u/47091256?s=460&u=32e8399c14cdeb76b0421f538b220c4f6056bd88&v=4",
+        "links": {
+            "website": "",
+            "linkedin": "https://www.linkedin.com/in/jason-carrillo/",
+            "github": "https://github.com/jasoncarrillo0"
+        },
+        "jobTitle": "Front-End Engineer",
+        "location": {
+            "city": "Beirut",
+            "state": "",
+            "country": "Lebanon"
+        }
     }
   }
